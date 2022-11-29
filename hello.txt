@@ -4,4 +4,6 @@ hello
 this is a text file and now is working correctly
 
 
-aqui hicecambios 
+aqui hice cambios 
+
+En camara parece alto pero no lo es 
