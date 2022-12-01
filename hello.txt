@@ -6,4 +6,4 @@ This is a text file and now is working correctly
 
 Aqui hice cambios 
 
-En persona  parece alto pero no lo es 
+En persona  parece alto pero no lo es, en realidad es muy bajo
