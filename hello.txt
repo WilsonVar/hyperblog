@@ -1,9 +1,9 @@
 hello
 
 
-this is a text file and now is working correctly
+This is a text file and now is working correctly
 
 
-aqui hice cambios 
+Aqui hice cambios 
 
-En camara parece alto pero no lo es 
+En persona  parece alto pero no lo es 
